@@ -82,5 +82,8 @@ A table showing PCA-transformed data:
 And a 3D scatter plot visualizing this data.
 
 ---
+<img width="573" height="582" alt="Screenshot 1447-02-03 at 12 17 34 AM" src="https://github.com/user-attachments/assets/3ecb4615-52c2-4ad4-8e1d-965397f3bd80" />
+
+<img width="570" height="454" alt="Screenshot 1447-02-03 at 12 17 44 AM" src="https://github.com/user-attachments/assets/d983ddd6-b61c-4ae0-85b0-ef5e39fc26bc" />
 
 
